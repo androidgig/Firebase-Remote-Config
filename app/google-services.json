@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "562022568284",
+    "firebase_url": "https://androidgig-677c3.firebaseio.com",
+    "project_id": "androidgig-677c3",
+    "storage_bucket": "androidgig-677c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562022568284:android:524956dd2451a03e",
+        "android_client_info": {
+          "package_name": "com.androidgig.remoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562022568284-9mpo1jlphu7ata93dpgts5e4br9v77j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnlUCfGVbmKW6n49U311AJ7zeTyXe1rSE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
